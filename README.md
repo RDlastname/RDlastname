@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on Tools, and other random stuff.
 - 📫 How to reach me: Discord | RD6106 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a Cybersecurity nerd.
+- ⚡ Fun fact: I am into Cybersecurity!
