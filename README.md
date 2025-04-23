@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @RDlastname.
-- 👀 I’m interested in Web designing.
-- 🌱 I’m currently learning HTML, and Javascript.
-- 💞️ I’m looking to collaborate on Tools, and other random stuff.
-- 📫 How to reach me: Discord | RD6106 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am into Cybersecurity!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
